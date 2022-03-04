@@ -1,0 +1,9 @@
+.footer {
+  padding: 80px 200px 50px 200px;
+}
+
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

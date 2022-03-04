@@ -1,0 +1,14 @@
+.main {
+  background-image: url("../../assets/bg-3.png");
+}
+
+.card-group {
+  padding: 50px;
+}
+
+.main-heading {
+  font-size: 50px;
+  /* margin-top: 10px; */
+  padding: 30px 0 0 50px;
+  font-weight: 700;
+}

@@ -1,0 +1,14 @@
+.App {
+  background-image: url(./assets/bg.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  font-family: "Padauk", sans-serif;
+  /* z-index: 20; */
+}
+
+.modal-open {
+  position: fixed;
+  overflow: scroll;
+  width: 100%;
+  padding-right: 0 !important;
+}

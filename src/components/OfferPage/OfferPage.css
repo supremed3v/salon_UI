@@ -1,0 +1,9 @@
+.offer-section {
+  background-image: url("../../assets/bg-2.png");
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.margin-top {
+  margin-top: 100px;
+}

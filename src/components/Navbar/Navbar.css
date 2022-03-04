@@ -1,0 +1,40 @@
+.navbar-custom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.nav-item {
+  margin-right: 30px;
+}
+
+.nav-link {
+  color: #fefbfb;
+  font-weight: 700;
+  text-transform: uppercase;
+  transition: all 0.5s ease;
+}
+
+.nav-link:hover {
+  color: #4b4347;
+}
+
+.cta_button-nav {
+  width: 200px;
+  border: 1px solid #fefbfb;
+  color: #fefbfb;
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+
+.cta_button-nav:hover {
+  color: #4b4347;
+  border: 1px solid #4b4347;
+}
+
+.navbar-text {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
